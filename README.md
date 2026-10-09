@@ -31,20 +31,6 @@ O **OrçaLivre** foi construído com princípios claros de transparência, sober
 
 ---
 
-## 🖼️ Capturas de Tela
-
-<div align="center">
-
-> *Substitua os links abaixo pelas capturas de tela reais da aplicação.*
-
-| Criador de Propostas com IA | Editor Inline & Preview de PDF em Tempo Real |
-| :---: | :---: |
-| ![Formulário de Criação](https://placehold.co/600x380/1e293b/white?text=Or%C3%A7aLivre+-+Formul%C3%A1rio) | ![Preview e Download de PDF](https://placehold.co/600x380/1e40af/white?text=Or%C3%A7aLivre+-+PDF+Executivo) |
-
-</div>
-
----
-
 ## 🚀 Principais Recursos
 
 - 🤖 **Geração Inteligente via IA**:
