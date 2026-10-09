@@ -1,0 +1,14 @@
+services:
+  orcalivre:
+    build: .
+    image: orcalivre:latest
+    container_name: orcalivre
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    mem_limit: 64m
+    read_only: true
+    tmpfs:
+      - /var/cache/nginx
+      - /var/run
+      - /tmp

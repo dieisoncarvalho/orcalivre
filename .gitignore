@@ -1,0 +1,32 @@
+# Dependências e compilação
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Chaves de segurança e segredos - NUNCA COMMITAR
+scripts/.keys/
+*.pem
+*.key
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Sistema e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
